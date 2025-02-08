@@ -49,14 +49,15 @@ person_4 = {   "name": "Varshini M",
     "programming_language":"python"
 }
 #details of person 5
-person_5 = {   "name": "",
-    "slack_username":"",
-    "email":"",
-    "hobby":"",
-    "country":"",
-    "discipline":"",
-    "programming_language":""
+person_5 = {  "name": "Michael ogar",
+    "slack_username":"Michael",
+    "email":"michealogar2016@gmail.com",
+    "hobby":"lab work",
+    "country":"Nigeria",
+    "discipline":"Veterinary Medicine",
+    "programming_language":"R"
 }
+
 #list of team members
 team_list = [person_1, person_2, person_3, person_4, person_5]  
 
